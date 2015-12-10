@@ -7,16 +7,134 @@ section{
 	width: 1380px;
 	height: 710px;
 }
-h1{
-	text-align: center;
-	font-family: Josefin Sans;
-	padding-top: 25px;
-	font-size: 50px;
+p#intro{
+	margin-left: 500px;
 }
+.titulo{
+	text-align: center;
+	font-family:'Oleo Script', cursive;
+	color: #0B4982;
+	padding-top: 20px;
+	font-size: 60px;
+}
+.intro{
+	width: 600px;
+	text-align: center;
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 15px;
+	line-height: 30px;
+	text-align: justify;
+	margin-left: 100px;
+}
+.registro{
+	font-family:'Oleo Script', cursive;
+	color: #0B4982;
+	font-size: 15px;
+	margin-left: 850px;
+	margin-top: -150px; 
+	border: 2px solid #0B4982;
+	width: 140px;
+	text-align: center;
+}
+.carnes{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 30px;
 
+}
+.parrafo_carnes{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 15px;
+
+}
+.lacteos{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 30px;
+
+}
+.parrafo_lacteos{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 15px;
+
+}
+.hortalizas{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 30px;
+
+}
+.parrafo_hortalizas{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 15px;
+
+}
+.miel{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 30px;
+
+}
+.parrafo_miel{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 15px;
+
+}
+.amaranto{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 30px;
+
+}
+.parrafo_amaranto{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 15px;
+
+}
+.sr-only{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 15px;
+
+}
+.locacion{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 30px;
+	margin-left: 50px;
+}
+.footer{
+	font-family: 'Average', serif;
+	color: #0B4982;
+	font-size: 15px;
+
+}
+div.carousel-caption{
+	background-color: rgba(11, 73, 130, 0.36);
+	height: 100%;
+	margin-bottom: -20px;
+	width: 100%;
+	margin-left: -160px;
+}
+h3.letra{
+	font-family: 'Average', serif;
+	color: #FFF;
+}
+p.letra{
+	font-family: 'Average', serif;
+	color: #FFF;
+	width: 460px;
+	margin-left: 175px;
+}
 header{
 	
-	background-color: yellow;
+
 	background-size: 100%;
 
 }
@@ -24,22 +142,30 @@ footer{
 	height: 40px;
 	width: 100%;
 	text-align: center;
+
+}
+section#espacio{
+	margin-top: 40px;
+	height: 230px;
 }
 section#color1{
-
+	background-color: #0B4982;
+	height: 540px;
 }
-section#color2{
-	background-color:green;
-
+section#contact{
+	background-color: #0B4982;
+	height: 500px;
 }
-section#color3{
-	background-color: pink;
-
+.right carousel-control{
+	margin-top: 100px;
 }
 /*no tocar*/
 div#myCarousel{
-	width: 1380px;
-	height: 710px;
+	width: 800px;
+	height: 500px;
+	margin-left: 300px;
+	padding-top: 60px;
+
 }
 /*no tocar*/
 .item{
@@ -48,8 +174,26 @@ div#myCarousel{
 }
 img.icono{
 	width: 50px;
-	height: 50px;
-
+	height:3 50px;
 }
-
-
+h3#top{
+	margin-top: 0;
+	border-top: 
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Average', serif;
+	color: beige;
+}
+p#top{
+	font-size: 15px;
+	font-family: 'Average', serif;
+	text-align: center;
+	width: 400px; 
+	margin-left: 500px;
+	color: beige;
+}
+a#top{
+	margin-left: 430px;
+	font-size: 20px;
+	color: beige;
+}
