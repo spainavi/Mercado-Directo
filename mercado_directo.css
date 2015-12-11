@@ -4,7 +4,7 @@
 	font-family: Josefin Sans;
 }
 section{
-	width: 1380px;
+	width: 100%;
 	height: 710px;
 }
 p.intro{
@@ -17,34 +17,40 @@ p.intro{
 	text-align: justify;
 	margin-left: 400px;
 }
+p.registro{
+	background-color: withe;
+}
 header{
 	display: inline-block;
 	height: 200px;
 }
 a.registro{
+	background-color: #FFF;
 	float: right;
 	font-family:'Oleo Script', cursive;
-	color: #0B4982;
-	font-size: 15px;
-	border: 2px solid #0B4982;
+	color: #0B4983;
+	font-size: 13px;
+	border: 2px solid #0B4983;
 	width: 140px;
 	text-align: center;
-	margin-top: 50px;
-	margin-right: 70px;
-	padding-top: 5px;
-
+	margin-top: 25px;
+	margin-right: 20px;
+	padding-top: 8px;
+	position: fixed;
+	z-index: 10000;
+	border-radius: 20px;
 }
-
 h1.titulo{
 	float: left;
-	margin-left: 550px;
+	margin-left: 550px;*/
 	text-align: center;
 	font-family:'Oleo Script', cursive;
-	color: #0B4982;
+	color: #37BD41;
 	padding-top: 20px;
 	font-size: 60px;
-	margin-right: 170px;
+	margin-right: 220px;
 	margin-left: 510px;
+
 }
 /*.titulo{
 	text-align: center;
@@ -151,13 +157,13 @@ h1.titulo{
 	font-size: 15px;
 
 }
-div.carousel-caption{
-	background-color: rgba(11, 73, 130, 0.36);
+/*div.carousel-caption{
+	background-color: rgba(40, 113, 79, .42);
 	height: 100%;
 	margin-bottom: -20px;
 	width: 100%;
 	margin-left: -160px;
-}
+}*/
 h3.letra{
 	font-family: 'Average', serif;
 	color: #FFF;
@@ -191,25 +197,28 @@ section#color1{
 	height: 540px;
 }
 div#fondo{
-	background-color: #0B4982;
+	background-color: #37BD41;
 	width: 100%;
 	height: 100%;
+	border-radius-bottom: 50px;
+
 }
 section#contact{
-	background-color: #0B4982;
+	background-color: #37BD41;
 	height: 300px;
+	border-radius-top: 50px;
+
 }
 .right carousel-control{
 	margin-top: 100px;
 }
 /*no tocar*/
 div#myCarousel{
-	width: 800px;
-	height: 500px;
-	margin-left: 300px;
-	padding-top: 60px;
-
-}
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+	padding-top: 0;
+	}
 /*no tocar*/
 .item{
 	width: 100%;
@@ -238,12 +247,18 @@ p#top{
 	margin-bottom: 80px;
 }
 a#top1{
-	margin-left: 550px;
+	/*margin-left: 550px;*/
 	font-size: 20px;
 	color: beige;
 }
 a#top{
-	margin-left: 150px;
+	/*margin-left: 150px;*/
 	font-size: 20px;
 	color: beige;
+}
+div#top{
+	margin-left: 670px;
+}
+div#top2{
+	margin-top: 50px;
 }
