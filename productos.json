@@ -1,0 +1,24 @@
+{
+"productos": [
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "250 ml", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+	{"nombre":"leche", "categoria": "lacteos", "precio": "$5.00", "cantidad": "litro", "imagen": "https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png"}
+
+	]
+}
