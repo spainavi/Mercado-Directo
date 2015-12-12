@@ -18,7 +18,7 @@ p{
 }
 
 
-#cc{
+.cajita-de-producto{
 	text-align: center;
 	margin: 5px;
 	border: 1px solid transparent;
@@ -52,25 +52,22 @@ p{
 }
 
 #conejo{
-width: 160px;
+	width: 160px;
 	height:160px;
 	border:1px solid black;
 	border-radius: 50%;
 	margin:12px;
 	background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGhUnukrumCpc7BiTC_KPpXzhKYWutFSHjuMnJdDXM9kqF7qoG");
-    background-size: contain
-   background-repeat: no-repeat; 
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
-#pollo{
-width: 160px;
-	height:160px;
-	border:1px solid black;
-	border-radius: 50%;
-	margin:12px;
-	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbKrm60O1Jexf0FnHiwaFbQM2D-qO2z8_eS1Rbic2sw39iI-seGg");
-    background-size: cover;
-    background-repeat: no-repeat;
+.canasta{
+	width: 20px;
+	height:20px;
+	background-image: url("https://d30y9cdsu7xlg0.cloudfront.net/png/17136-200.png");
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 
@@ -115,7 +112,7 @@ width: 160px;
 	margin:12px;
 	background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHdJSP0vWJCVWhmVKWe35N-W57I3d9vMKoLOjIichJGVuRx-MY7Q");
     background-size: cover;
-} 
+}
 #ama{
 	width: 160px;
 	height:160px;
@@ -195,7 +192,7 @@ width: 160px;
 	margin:12px;
 	background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl5OaYrTnYG_A2LJiES7wP6LkcraMC6L97dTvhP5LC8iuyZRuk");
     background-size: cover;
-}   
+}
 #pim{width: 160px;
 	height:160px;
 	border:1px solid black;
