@@ -9,6 +9,7 @@ $(function(){
       $e.find(".cantidad").html(data.productos[i].cantidad);
       $e.find(".caja-imagen img").attr('src', data.productos[i].imagen);
       $(".productos").append($e);
+       
     }
 
   });
