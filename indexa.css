@@ -78,11 +78,18 @@ ul li{
 
 }
 #productos{
-		height: 350px;
+	height: 450px;
 	width: 100%;
-	border: 1px solid transparent;
-	background-color: #FDF498;
-	opacity:.7;
+	background-image: url(imagen/fondo.jpg);
+}
+div#myCarousel{
+	width: 100%
+
+}
+img.item{
+	width: 600px;
+	height: 600px;
+	margin-left: 350px;
 }
 h2{
 	text-align: center;
